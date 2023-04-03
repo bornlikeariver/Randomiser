@@ -1,0 +1,4 @@
+name: Randomiser
+version: '${version}'
+main: net.nix1an.rnd.Main
+api-version: 1.16
