@@ -6,7 +6,7 @@ this random item spigot plugin allows players to recieve a random item every 30 
 
 ## installation
 
-1. download the plugin .jar file from [`build/libs/`](build/libs/)
+1. download the plugin .jar file from [the releases page](https://github.com/bornlikeariver/Randomiser/releases/tag/release)
 2. place the jar file in the plugins directory of your spigot minecraft server
 3. restart or reload the server
 
